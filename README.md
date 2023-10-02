@@ -8,7 +8,7 @@ This addon for Tales of Maj'Eyal adds an auto combat feature similar to DCSS. Pr
 
 - Automatically pathfind and attack the nearest visible enemy.
 - Ability to specify preferred attack skill.
-- Customizable health threshold for enabling/disabling auto-fight.
+- Disable auto fight below 50% health.
 
 ## Installation
 
